@@ -1,1 +1,13 @@
+[
+  {
+    "building": "A",
+    "room": "A101",
+    "capacity": 60
+  },
+  {
+    "building": "B",
+    "room": "B204",
+    "capacity": 40
+  }
+]
 
